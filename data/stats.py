@@ -22,3 +22,5 @@ print("Number of course codes/departments: " + str(len(departments)))
 print("Total text length: " + str(len(total_text)) + " characters")
 
 print("Average text length: " + str(average_text_length) + " characters")
+
+file.close()
