@@ -1,6 +1,8 @@
 # Penn Course LLM
 A RAG-based LLM with access to more than 10,000 courses within Penn Courses Catalog to help Penn students choose their courses more quickly and easily!
 
+A demo video can be found here: https://www.youtube.com/watch?v=jjOaDjFyVlw
+
 
 ## How to run:
 
@@ -22,5 +24,3 @@ python data/vector_db.py
 ```
 python model/gpt-4.py
 ```
-
-A demo can be found here: https://drive.google.com/file/d/1x04-kCscRWlvGLDrMBN7YAB4GmFYNyxa/view?usp=sharing
